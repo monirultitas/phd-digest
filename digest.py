@@ -93,12 +93,19 @@ FEEDS = [
     # Nature Careers
     ("Nature Careers", "Remote Sensing",
      "https://www.nature.com/naturecareers/jobs.rss?term=remote+sensing"),
-    # --- ADD YOUR GOOGLE ALERT RSS URLs BELOW ---
-    # To get these: google.com/alerts → create alert → "RSS feed" option
-    # ("Google Alerts", "Remote Sensing PhD",
-    #  "https://www.google.com/alerts/feeds/YOUR_FEED_ID_HERE/YOUR_TOKEN"),
-    # ("Google Alerts", "Flood Mapping Grant",
-    #  "https://www.google.com/alerts/feeds/YOUR_FEED_ID_HERE/YOUR_TOKEN"),
+    # Google Alerts — RSS feeds (created 2026-10-16)
+    ("Google Alerts", "PhD flood mapping funded",
+     "https://www.google.com/alerts/feeds/14103899754495623098/6766904095506019170"),
+    ("Google Alerts", "PhD hydrology machine learning funded",
+     "https://www.google.com/alerts/feeds/14103899754495623098/17993141065103238557"),
+    ("Google Alerts", "GeoAI fellowship grant PhD",
+     "https://www.google.com/alerts/feeds/14103899754495623098/9040683348819241136"),
+    ("Google Alerts", "Earth observation PhD fellowship funded",
+     "https://www.google.com/alerts/feeds/14103899754495623098/9598089568831618758"),
+    ("Google Alerts", "SAR Sentinel-1 PhD research grant funded",
+     "https://www.google.com/alerts/feeds/14103899754495623098/12510522689205402605"),
+    ("Google Alerts", "PhD remote sensing funded",
+     "https://www.google.com/alerts/feeds/14103899754495623098/456395825921442112"),
 ]
 
 # ---------------------------------------------------------------------------
